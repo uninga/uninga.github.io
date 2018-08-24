@@ -4,3 +4,4 @@
 User-agent: *
 Disallow:
 Sitemap: https://uninga.github.io/sitemap.xml
+Sitemap: https://uninga.github.io/aartericons/sitemap.xml
